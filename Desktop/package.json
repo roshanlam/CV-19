@@ -1,0 +1,21 @@
+{
+  "name": "corona",
+  "version": "1.0.0",
+  "description": "A corona tracker",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Roshan Lamichhane",
+  "devDependencies": {
+    "electron": "^1.8.4",
+    "sumchecker": "^2.0.2"
+  }
+}
