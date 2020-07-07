@@ -15,7 +15,7 @@
   ],
   "author": "Roshan Lamichhane",
   "devDependencies": {
-    "electron": "^1.8.4",
+    "electron": "^9.1.0",
     "sumchecker": "^2.0.2"
   }
 }
